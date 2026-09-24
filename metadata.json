@@ -1,0 +1,6 @@
+{
+  "name": "MAISON — Haute Parfumerie & 3D Olfactory Atelier",
+  "description": "World-class luxury 3D perfume e-commerce atelier featuring interactive WebGL flacons, custom monogram engraving, olfactory notes pyramid, multi-currency checkout, and bespoke fragrances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
